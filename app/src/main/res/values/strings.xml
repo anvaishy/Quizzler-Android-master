@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Isaac Newton discovered Gravity while sitting under an apple tree.</string>
+    <string name="question_2">A slug\'s blood is green.</string>
+    <string name="question_3">The cranial bones are in the knee.</string>
+    <string name="question_4">The total surface area of two human lungs is approximately 70 square metres.</string>
+    <string name="question_5">It is safe to add water in an acid</string>
+    <string name="question_6">A voltmeter has zero resistance</string>
+    <string name="question_7">Reaction between ehthanoic acid and ethanol forms an ester</string>
+    <string name="question_8">ultraviolet light has a wavelength higher than infrared light</string>
+    <string name="question_9">Google was originally called \"Backrub\".</string>
+    <string name="question_10">Kirk Hammett is from the band \"METALLICA\".</string>
+    <string name="question_11">The heaviest animal is the African Elephant.</string>
+    <string name="question_12">Dihydrogen monoxide is unsafe for humans.</string>
+    <string name="question_13">QWERTY is the most used keyboard worldwide.</string>
+
+</resources>
